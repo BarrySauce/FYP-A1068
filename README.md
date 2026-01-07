@@ -28,4 +28,4 @@ To address these issues, this project presents a **full-stack relayer service** 
 ![architecture](images/architecture.png)
 
 **System Workflow:**
-![workflow](imagesworkflow.png)
+![workflow](images/workflow.png)
