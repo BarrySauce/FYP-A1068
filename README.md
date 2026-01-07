@@ -16,7 +16,7 @@ However, despite being permissionless, public blockchains require users to pay t
 
 Even when private or consortium blockchains are used to avoid gas fees, **transaction efficiency** remains a challenge.
 
-To address these issues, this project presents a **full-stack relayer service** designed using **Solidity smart contracts**, **web3.js**, **Node.js**, and **SQL Database**, which enables prosumers to initiate blockchain transactions by simply generating signatures in EIP712 standard without paying **gas fees**, and enhances efficiency by consolidating multiple payment requests into a **single transaction**. Prosumers submit transaction requests to the relayer, which executes the transactions on their behalf.
+To address these issues, this project presents a **full-stack relayer service** designed using **Solidity smart contracts**, **web3.js**, **Node.js**, and **SQL Database**, which enables prosumers to initiate blockchain transactions by simply generating signatures in **EIP712 standard** without paying **gas fees**, and enhances efficiency by consolidating multiple payment requests into a **single transaction**. Prosumers submit transaction requests to the relayer, which executes the transactions on their behalf.
 
 [Summary slides of the project](https://drive.google.com/file/d/1hfzqZFeBl6BoNYDJP7v6q3a11KCKbR0S/view?usp=sharing)
 
