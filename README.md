@@ -16,4 +16,4 @@ However, despite being permissionless, public blockchains require users to pay t
 
 Even when private or consortium blockchains are used to avoid gas fees, **transaction efficiency** remains a challenge.
 
-To address these issues, this project proposes a **full-stack relayer service** that eliminates the need for prosumers to pay **gas fees** directly and enhances efficiency by consolidating multiple payment requests into a **single transaction**. Prosumers submit payment requests to the relayer, which executes the transactions on their behalf.
+To address these issues, this project presents a **full-stack relayer service** designed with **Solidity smart contracts**, **web3.js**, **Node.js**, and **SQL Database**, which eliminates the need for prosumers to pay **gas fees** directly and enhances efficiency by consolidating multiple payment requests into a **single transaction**. Prosumers submit payment requests to the relayer, which executes the transactions on their behalf.
