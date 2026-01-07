@@ -1,4 +1,6 @@
-# NTU EEE Final Year Project: Blockchain-based Relayer Services: Batching and Submitting Multiple Energy Transactions in a Meta-Transaction
+# NTU EEE Final Year Project: #
+
+# Blockchain-based Relayer Services: Batching and Submitting Multiple Energy Transactions in a Meta-Transaction #
 
 Submitted by: Ma Siteng (U1923700D)
 
