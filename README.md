@@ -10,10 +10,10 @@ Co-supervisor: [Dr. Yang Jiawei](https://www.linkedin.com/in/jiawei-yang-clyde/?
 
 Examiner: [Prof. Amer Mohammad Yusuf Mohammad Ghias](https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/amer-mohammad-yusuf-mohammad-ghias)
 
-Peer-to-peer energy trading has seen an increase of popularity with the adoption of smart grid and distributed energy resources in current days. Blockchain, a distributed ledger governed by consensus protocol, is deemed as a solid foundation to build the peer-to-peer energy trading network on top of it, where traceable and verifiable transaction logs become feasible.
+Peer-to-peer energy trading has become increasingly popular with the growth of smart grids and distributed energy resources. Blockchain provides a reliable foundation for such systems by enabling transparent, traceable, and verifiable transactions.
 
-However, even if public blockchain is permissionless, meaning everyone can join the blockchain, it is still a closed ecosystem where everything must be settled in the crypto-native way. One typical example is that users need to pay ‘gas fee’ in the blockchain’s native token to launch a transaction on it. This may not be the problem for the crypto adopters, but it causes significant onboarding issues for users without prior experience. So does it to the users of blockchain-based Peer-to-peer energy trading network.
+However, despite being permissionless, public blockchains require users to pay transaction fees (“gas fees”) using native tokens. This creates significant onboarding barriers for users without prior blockchain experience, including participants in blockchain-based peer-to-peer energy trading systems.
 
-Moreover, even if the energy trading system is built based on private or consortium blockchain instead of public blockchain, which means users do not need to pay ‘gas fee’, the trading efficiency still requires improvement.
+Even when private or consortium blockchains are used to avoid gas fees, transaction efficiency remains a challenge.
 
-To tackle these problems mentioned above, this project presents a full-stack relayer service that eliminates prosumers’ need to pay gas fee by themselves during the settlement stage in the trading process, and greatly improves the trading efficiency by batching multiple payment requests in one transaction. Prosumers can handle the payment requests to the relayer, which launches the payment transactions for the prosumers.
+To address these issues, this project proposes a full-stack relayer service that removes the need for prosumers to pay gas fees directly and improves efficiency by batching multiple payment requests into a single transaction. Prosumers submit payment requests to the relayer, which executes the transactions on their behalf.
