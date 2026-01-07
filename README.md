@@ -24,8 +24,8 @@ To address these issues, this project presents a **full-stack relayer service** 
 **Scope of the Relayer Service**
 ![scope](images/scope.png)
 
-**System Architecture:**
+**Relayer Service Architecture:**
 ![architecture](images/architecture.png)
 
-**System Workflow:**
+**Relayer Service Workflow:**
 ![workflow](images/workflow.png)
