@@ -18,8 +18,14 @@ Even when private or consortium blockchains are used to avoid gas fees, **transa
 
 To address these issues, this project presents a **full-stack relayer service** designed with **Solidity smart contracts**, **web3.js**, **Node.js**, and **SQL Database**, which eliminates the need for prosumers to pay **gas fees** directly and enhances efficiency by consolidating multiple payment requests into a **single transaction**. Prosumers submit payment requests to the relayer, which executes the transactions on their behalf.
 
+**Blockchain-based P2P Energy Trading:**
+![overview](images/overview.png)
+
+**Scope of the Relayer Service**
+![scope](images/scope.png)
+
 **System Architecture:**
-![architecture](architecture.png)
+![architecture](images/architecture.png)
 
 **System Workflow:**
-![workflow](workflow.png)
+![workflow](imagesworkflow.png)
