@@ -1,8 +1,11 @@
 # NTU EEE Final Year Project: Blockchain-based Relayer Services: Batching and Submitting Multiple Energy Transactions in a Meta-Transaction
 
 Submitted by: Ma Siteng (U1923700D)
+
 Supervisor: [Prof. Gooi Hoay Beng](https://blogs.ntu.edu.sg/gooihoaybeng/)
+
 Co-supervisor: [Dr. Yang Jiawei](https://www.linkedin.com/in/jiawei-yang-clyde/?originalSubdomain=sg)
+
 Examiner: [Prof. Amer Mohammad Yusuf Mohammad Ghias](https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/amer-mohammad-yusuf-mohammad-ghias)
 
 Peer-to-peer energy trading has seen an increase of popularity with the adoption of smart grid and distributed energy resources in current days. Blockchain, a distributed ledger governed by consensus protocol, is deemed as a solid foundation to build the peer-to-peer energy trading network on top of it, where traceable and verifiable transaction logs become feasible.
