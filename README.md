@@ -2,7 +2,7 @@
 
 # Blockchain-based Relayer Services: Batching and Submitting Multiple Energy Transactions in a Meta-Transaction #
 
-Submitted by: Ma Siteng (U1923700D)
+Submitted by: Ma Siteng
 
 Supervisor: [Prof. Gooi Hoay Beng](https://blogs.ntu.edu.sg/gooihoaybeng/)
 
@@ -10,10 +10,10 @@ Co-supervisor: [Dr. Yang Jiawei](https://www.linkedin.com/in/jiawei-yang-clyde/?
 
 Examiner: [Prof. Amer Mohammad Yusuf Mohammad Ghias](https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/amer-mohammad-yusuf-mohammad-ghias)
 
-Peer-to-peer energy trading has become increasingly popular with the growth of smart grids and distributed energy resources. Blockchain provides a reliable foundation for such systems by enabling transparent, traceable, and verifiable transactions.
+**Peer-to-peer energy trading** has become increasingly popular with the growth of **smart grids** and distributed energy resources. **Blockchain** provides a reliable foundation for such systems by enabling transparent, traceable, and verifiable transactions.
 
-However, despite being permissionless, public blockchains require users to pay transaction fees (“gas fees”) using native tokens. This creates significant onboarding barriers for users without prior blockchain experience, including participants in blockchain-based peer-to-peer energy trading systems.
+However, despite being permissionless, public blockchains require users to pay transaction fees (**“gas fees”**) using native tokens. This creates significant onboarding barriers for users without prior blockchain experience, including participants in blockchain-based peer-to-peer energy trading systems.
 
-Even when private or consortium blockchains are used to avoid gas fees, transaction efficiency remains a challenge.
+Even when private or consortium blockchains are used to avoid gas fees, **transaction efficiency** remains a challenge.
 
-To address these issues, this project proposes a full-stack relayer service that removes the need for prosumers to pay gas fees directly and improves efficiency by batching multiple payment requests into a single transaction. Prosumers submit payment requests to the relayer, which executes the transactions on their behalf.
+To address these issues, this project proposes a **full-stack relayer service** that eliminates the need for prosumers to pay **gas fees** directly and enhances efficiency by consolidating multiple payment requests into a **single transaction**. Prosumers submit payment requests to the relayer, which executes the transactions on their behalf.
